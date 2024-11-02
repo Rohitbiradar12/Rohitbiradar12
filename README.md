@@ -68,10 +68,8 @@
 <div align="center">
     <a href="https://tictactoerohit1.netlify.app/" target="_blank" style="text-decoration: none;">
         <button style="
-            background-color: black; 
-            color: white; 
-            border: none; 
-            padding: 15px 30px; 
+            background-color: white; 
+            color: black;
             font-size: 18px; 
             border-radius: 5px; 
             cursor: pointer; 
