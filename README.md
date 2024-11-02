@@ -67,19 +67,13 @@
 
 <div align="center">
     <a href="https://tictactoerohit1.netlify.app/" target="_blank" style="text-decoration: none;">
-        <button style="
-            background-color: white; 
-            color: black;
-            font-size: 18px; 
-            border-radius: 5px; 
-            cursor: pointer; 
-            transition: background-color 0.3s, transform 0.3s;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        ">
+        <button style="background-image: url('https://github.com/user-attachments/assets/42bcf0ab-f4e4-4096-9f36-a3d8f8b7e57d'); background-size: cover; border: none; width: 200px; height: 60px; color: white; font-size: 16px; border-radius: 4px; cursor: pointer;">
             Are you bored?
         </button>
     </a>
 </div>
+
+
 
 
 
