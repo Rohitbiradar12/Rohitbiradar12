@@ -67,8 +67,9 @@
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 5px;">
     <a href='https://tictactoerohit1.netlify.app/' target='_blank'>
-        <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' style="width: 150px; height: auto;" />
+        <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' style="width: 150px; height: auto; background-color: white;" />
     </a>
+    Are you bored?
 </div>
 
 
