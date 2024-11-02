@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an Online Bookstore**
+ 🔭 I am a backend developer
 
  🌱 I’m currently learning **DevOps, Microservices, Docker**
 
@@ -18,6 +18,7 @@
 
  ⚡ Fun fact **I love learning new backend technologies and solving complex problems**
 </div>
+
  
 <div align="center"> 
   <a href="mailto:rohitbiradar394@gmail.com">
@@ -65,7 +66,11 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://tictactoerohit1.netlify.app/' target='_blank'>
+        <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Check out my Tic Tac Toe project!' />
+    </a>
+    <p style="margin-top: 8px;">Check out my Tic Tac Toe project!</p>
 </div>
+
 
 <br/>
