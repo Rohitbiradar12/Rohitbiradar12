@@ -14,9 +14,9 @@
 
  🌱 I’m currently learning **DevOps, Microservices, Docker**
 
-💬 Ask me about **Java, Spring Boot, Spring MVC, or anything [here](https://github.com/Rohitbiradar12/Rohitbiradar12/issues)**
+ 💬 Ask me about **Java, Spring Boot, Spring MVC, or anything [here](https://github.com/Rohitbiradar12/Rohitbiradar12/issues)**
 
-⚡ Fun fact **I love learning new backend technologies and solving complex problems**
+ ⚡ Fun fact **I love learning new backend technologies and solving complex problems**
 </div>
  
 <div align="center"> 
