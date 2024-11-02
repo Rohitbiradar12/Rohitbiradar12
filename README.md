@@ -65,12 +65,14 @@
 
 <br/>
 
-<div align="center" style="background-color: white; padding: 10px; border-radius: 5px;">
-    <a href='https://tictactoerohit1.netlify.app/' target='_blank'>
-        <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' style="width: 150px; height: auto; background-color: white;" />
+<div align="center" style="padding: 10px;">
+    <a href='https://tictactoerohit1.netlify.app/' target='_blank' style="text-decoration: none;">
+        <div style="background-color: white; color: black; padding: 15px 25px; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: background-color 0.3s, transform 0.3s;">
+            Are you bored?
+        </div>
     </a>
-    Are you bored?
 </div>
+
 
 
 
