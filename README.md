@@ -66,7 +66,8 @@
 <br/>
 
 <div align="center">
-<a href='https://tictactoerohit1.netlify.app/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='are you bored?' /></a>
+<a href='https://tictactoerohit1.netlify.app/' target='_blank'><img height='64' style='border:0px;height:64px;' src='![image](https://github.com/user-attachments/assets/0d39cc3e-6d68-40e8-a974-359a331e2774)
+' border='0' alt='are you bored?' /></a>
 </div>
 
 
