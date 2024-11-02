@@ -67,9 +67,10 @@
 
 <div align="center">
     <a href='https://tictactoerohit1.netlify.app/' target='_blank'>
-        <img src='LINK_TO_YOUR_TIC_TAC_TOE_IMAGE' alt='Tic Tac Toe Project' />
+        <img height='64' style='border:0px;height:64px;' src='tictactoerohit1.netlify.app/' border='0' alt='Do you wanna play Tic Tac Toe?' />
     </a>
 </div>
+
 
 
 
