@@ -66,12 +66,11 @@
 <br/>
 
 <div align="center">
-    <a href="https://tictactoerohit1.netlify.app/" target="_blank" style="text-decoration: none;">
-        <button style="background-image: url('https://github.com/user-attachments/assets/42bcf0ab-f4e4-4096-9f36-a3d8f8b7e57d'); background-size: cover; border: none; width: 200px; height: 60px; color: white; font-size: 16px; border-radius: 4px; cursor: pointer;">
-            Are you bored?
-        </button>
+    <a href='https://tictactoerohit1.netlify.app/' target='_blank'>
+        <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' />
     </a>
 </div>
+
 
 
 
