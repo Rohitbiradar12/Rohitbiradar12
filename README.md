@@ -67,11 +67,13 @@
 
 <div align="center" style="padding: 10px;">
     <a href='https://tictactoerohit1.netlify.app/' target='_blank' style="text-decoration: none;">
-        <div style="background-color: white; color: black; padding: 15px 25px; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: background-color 0.3s, transform 0.3s;">
-            Are you bored?
+        <div style="background-color: white; padding: 15px; border-radius: 5px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+            <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' style="width: 150px; height: auto;" />
+            <div style="color: black; font-weight: bold; margin-top: 10px;">Are you bored?</div>
         </div>
     </a>
 </div>
+
 
 
 
