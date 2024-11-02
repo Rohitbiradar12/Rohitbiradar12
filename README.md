@@ -66,10 +66,13 @@
 <br/>
 
 <div align="center">
-    <a href='https://tictactoerohit1.netlify.app/' target='_blank'>
-        <img height='64' style='border:0px;height:64px;' src='tictactoerohit1.netlify.app/' border='0' alt='Do you wanna play Tic Tac Toe?' />
+    <a href="https://tictactoerohit1.netlify.app/" target="_blank" style="text-decoration: none;">
+        <button style="background-color: #4CAF50; /* Green */ color: white; border: none; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;">
+            Play Tic Tac Toe!
+        </button>
     </a>
 </div>
+
 
 
 
