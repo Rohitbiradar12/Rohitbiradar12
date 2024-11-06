@@ -77,58 +77,5 @@
     </a>
 </div>
 
-<style>
-    /* Container styling */
-    .icon-container {
-        background-color: white;
-        padding: 15px;
-        border-radius: 5px;
-        text-align: center;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-        transition: transform 0.3s;
-    }
-
-    .icon-text {
-        color: black;
-        font-weight: bold;
-        margin-top: 10px;
-    }
-
-    /* Default styles for light mode */
-    .icon-dark {
-        display: none;
-    }
-
-    /* Dark mode styles */
-    @media (prefers-color-scheme: dark) {
-        .icon-container {
-            background-color: #333;
-        }
-
-        .icon-text {
-            color: white;
-        }
-
-        .icon-light {
-            display: none;
-        }
-
-        .icon-dark {
-            display: inline;
-        }
-    }
-</style>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br/>
