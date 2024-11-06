@@ -67,12 +67,58 @@
 
 <div align="center" style="padding: 10px;">
     <a href='https://tictactoerohit1.netlify.app/' target='_blank' style="text-decoration: none;">
-        <div style="background-color: white; padding: 15px; border-radius: 5px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-            <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' style="width: 150px; height: auto;" />
-            <div style="color: white; font-weight: bold; margin-top: 10px;">Are you bored?</div>
+        <div class="icon-container">
+            <!-- Default icon for light mode -->
+            <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' class="icon-light" style="width: 150px; height: auto;" />
+            <!-- Alternative icon for dark mode -->
+            <img src='https://github.com/user-attachments/assets/white-icon-url.png' alt='Are you bored?' class="icon-dark" style="width: 150px; height: auto;" />
+            <div class="icon-text">Are you bored?</div>
         </div>
     </a>
 </div>
+
+<style>
+    /* Container styling */
+    .icon-container {
+        background-color: white;
+        padding: 15px;
+        border-radius: 5px;
+        text-align: center;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s;
+    }
+
+    .icon-text {
+        color: black;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    /* Default styles for light mode */
+    .icon-dark {
+        display: none;
+    }
+
+    /* Dark mode styles */
+    @media (prefers-color-scheme: dark) {
+        .icon-container {
+            background-color: #333;
+        }
+
+        .icon-text {
+            color: white;
+        }
+
+        .icon-light {
+            display: none;
+        }
+
+        .icon-dark {
+            display: inline;
+        }
+    }
+</style>
+
 
 
 
