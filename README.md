@@ -12,7 +12,7 @@
  
  🔭 I am a backend developer
 
- 🌱 I’m currently learning **DevOps, Microservices, Docker**
+ 🌱 I’m currently learning **DevOps, Microservices**
 
  💬 Ask me about **Java, Spring Boot, Spring MVC, or anything [here](https://github.com/Rohitbiradar12/Rohitbiradar12/issues)**
 
@@ -69,7 +69,7 @@
     <a href='https://tictactoerohit1.netlify.app/' target='_blank' style="text-decoration: none;">
         <div style="background-color: white; padding: 15px; border-radius: 5px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
             <img src='https://github.com/user-attachments/assets/24dea00c-361c-42fc-b3d4-d2ff895da1eb' alt='Are you bored?' style="width: 150px; height: auto;" />
-            <div style="color: black; font-weight: bold; margin-top: 10px;">Are you bored?</div>
+            <div style="color: white; font-weight: bold; margin-top: 10px;">Are you bored?</div>
         </div>
     </a>
 </div>
