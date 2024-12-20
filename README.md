@@ -12,7 +12,7 @@
  
  🔭 I am a backend developer
 
- 🌱 I’m currently learning **DevOps, Microservices**
+ 🌱 I’m currently learning **.NET Microservices and Devops**
 
  💬 Ask me about **Java, Spring Boot, Spring MVC, or anything [here](https://github.com/Rohitbiradar12/Rohitbiradar12/issues)**
 
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,docker,aws,azure,git,github,jenkins,postgresql,mysql,bootstrap,thymeleaf,nodejs,hibernate,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,docker,aws,azure,git,github,jenkins,postgresql,mysql,bootstrap,thymeleaf,nodejs,hibernate,nginx,dotnet,cs" /><br>
 </div>
 
 <br/>
