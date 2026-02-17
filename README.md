@@ -16,7 +16,6 @@
 <a href="mailto:biradar.roh@northeastern.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>&nbsp;
 <a href="https://leetcode.com/u/Rohit_Biradar/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>&nbsp;
 <a href="https://rohit-3d-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4285F4" /></a>&nbsp;
-<a href="https://github.com/Rohitbiradar12"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
 </div>
 
