@@ -144,7 +144,7 @@ I don't just write code, I architect systems built for resilience and scale. Whe
 
 <div align="center">
   
-<sub>Currently seeking **SDE Internship** opportunities for Summer/Fall 2026 — let's connect.</sub>
+***Currently seeking SDE Internship opportunities for Summer/Fall 2026 — let's connect.***
   
 <br/><br/>
   
